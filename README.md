@@ -1,10 +1,8 @@
 
 # 環境構築
 ```
-export CONDA_ENV=internship-2025
-
-conda create -n $CONDA_ENV python=3.12
-conda activate $CONDA_ENV
+conda create -n internship-2025 python=3.12
+conda activate internship-2025
 
 pip install -r requirements.txt
 ```
