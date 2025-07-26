@@ -1,3 +1,9 @@
+.ipynb_checkpoints/
+
+
 data-source/*
 !data-source/.gitkeep
 !data-source/input/.gitkeep
+
+.DS_Store
+
